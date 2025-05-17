@@ -53,3 +53,15 @@ public class AnalizadorLogs {
         }
     }
 }
+
+//Errores
+//[2025-03-31 01:03:55] INFO - Inicio de ejecución de pruebas automáticas.
+//[2025-03-31 01:04:01] ERROR - Falla en conexión con base de datos.
+//[2025-03-31 01:04:12] WARNING - Tiempo de respuesta excedido en módulo de login.
+//[2025-03-31 01:04:20] INFO - Prueba de carga completada exitosamente.
+//[2025-03-31 01:04:25] ERROR - Excepción NullPointer en clase UsuarioService.
+//[2025-03-31 01:04:35] WARNING - Uso de memoria elevado detectado.
+//[2025-03-31 01:04:50] INFO - Pruebas de integración finalizadas sin errores críticos.
+//[2025-03-31 01:05:05] ERROR - Timeout al conectar con API externa.
+//[2025-03-31 01:05:15] INFO - Todos los módulos fueron validados.
+//[2025-03-31 01:05:30] WARNING - Latencia alta durante pruebas de red.
